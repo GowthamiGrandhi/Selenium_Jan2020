@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41" started-at="2020-02-22T05:05:20Z" finished-at="2020-02-22T05:05:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41" started-at="2020-02-22T05:05:20Z" finished-at="2020-02-22T05:05:20Z">
+      <class name="testNGDemo.Ex3">
+        <test-method status="PASS" signature="BS()[pri:0, instance:testNGDemo.Ex3@1810399e]" name="BS" is-config="true" duration-ms="11" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:testNGDemo.Ex3@1810399e]" name="BT" is-config="true" duration-ms="0" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:testNGDemo.Ex3@1810399e]" name="TC03" duration-ms="1" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="TC04()[pri:0, instance:testNGDemo.Ex3@1810399e]" name="TC04" duration-ms="1" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+      </class> <!-- testNGDemo.Ex3 -->
+      <class name="testNGDemo.Ex2">
+        <test-method status="PASS" signature="BC()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="BC" is-config="true" duration-ms="0" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="BM" is-config="true" duration-ms="1" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="TC01" duration-ms="6" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="AM" is-config="true" duration-ms="1" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="TC02" duration-ms="2" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="BM" is-config="true" duration-ms="0" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:testNGDemo.Ex2@32d992b2]" name="AM" is-config="true" duration-ms="1" started-at="2020-02-22T10:35:20Z" finished-at="2020-02-22T10:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- testNGDemo.Ex2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
